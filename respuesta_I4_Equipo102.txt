@@ -2,8 +2,21 @@ A- ¿Qué color de fondo tiene su página en el TESTING ?
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 C- ¿Qué color de fondo tiene su página en el MASTER?
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
 
 A- QUEDO EN AZUL
 B- QUEDO EN AMARILLO
 C- QUEDO EN AZUL
 D- QUEDO  EL DE ALFA 
+E- SI BETA Y GAMMA TUBIERON PROBLEMAS AL HACER EL PUSH 
+F- LOS DATOS QUEDABAN TRASPUESTOS Y TUVIMOS QUE SOLUCIONARLO MANUALMENTE 
+G- TUVIMOS QUE BORRAR ESTOS SIGNOS <<<<<<<, ======= y >>>>>>> PARA SOLUCIONAR EL PROBLEMA Y CONTINUAR CON EL TRABAJO
+H- NO SABEMOS POR QUE NO LO USAMOS 
+I- TENEMOS QUE IR A LA RAMA DESARROLLO Y HACER UN MERGE CON LA RAMA TESTING
